@@ -34,10 +34,16 @@ Chris Lema
 
 WordCamp
 
-After Party
+The After Party
 
 Automatic Updates
 
 Wapuu
 
 Backward Compatability
+
+Managed Hosting
+
+CDN
+
+Anything but Joomla
