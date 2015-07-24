@@ -26,7 +26,7 @@ I can't believe my pull request to include _____ in WooCommerce was denied.
 
 Top 10 _____ plugins for WordPress.
 
-Did you hear that WordCamp is renaming the genius bar? It's now called the _____ bar.
+Did you hear that WordCamp is renaming the happiness bar? It's now called the _____ bar.
 
 Have you tried the new plugin called _____? It adds _____ to your site.
 
