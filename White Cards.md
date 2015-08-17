@@ -149,3 +149,21 @@ Backend
 body { font: 'Comic Sans' !important; }
 
 Hacking core
+
+`get_children()`
+
+`get_cat_name()`
+
+`do_feed()`
+
+`body_class()`
+
+`in_the_loop()`
+
+`convert_smilies()`
+
+`is_user_spammy()`
+
+`do_robots()`
+
+`wp_die()`
