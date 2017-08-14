@@ -8,7 +8,7 @@ The most famous WordCamp Portland attendee in history is __________
 
 WordPress developers need more CSS frameworks like a WP Core needs another ________
 
-I chose to learn WordPress instead of Drupal because I am ''
+I chose to learn WordPress instead of Drupal because I am _______
 
 My functions.php files are longer than _______
 
@@ -18,7 +18,7 @@ The most common Macbook sticker seen at WordCamp was ______
 
 The only other Apple product I can afford is ______
 
-We want our site design to look like Apple.com but more ________
+"We want our site design to look like Apple.com but more ________"
 
 If you memorized 5 WordPress hooks a day, you would be ________ 17 years later
 
