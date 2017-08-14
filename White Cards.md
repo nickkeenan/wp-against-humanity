@@ -1,3 +1,26 @@
+
+'is hipster-approved'
+
+'1&1'
+
+'GoDaddy'
+
+'wp_posts'
+
+'wp_posts_meta'
+
+'wp_enqueue_script()'
+
+'10'
+
+'the client's budget'
+
+'Hello Dolly'
+
+'Xanax'
+
+-- 2017 ^ -- 2015 ˅
+
 The Loop
 
 White Screen of Death
@@ -167,3 +190,12 @@ Hacking core
 `do_robots()`
 
 `wp_die()`
+
+
+
+
+
+
+
+
+
