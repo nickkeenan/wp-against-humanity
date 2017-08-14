@@ -1,9 +1,42 @@
+used car lot
 
-'is hipster-approved'
+shared hosting
 
-'1&1'
+security update notice
 
-'GoDaddy'
+Stephen Fry
+
+deprecated function
+
+not a masochist
+
+a WP_DEBUG_LOG
+
+not a designer
+
+Feel the Bern
+
+Apple juice
+
+functional
+
+stark raving mad
+
+cool scrolly
+
+hacked
+
+Matt Mullenweg
+
+Google Fonts
+
+infinite loop
+
+hipster-approved
+
+1&1
+
+GoDaddy
 
 'wp_posts'
 
@@ -11,13 +44,13 @@
 
 'wp_enqueue_script()'
 
-'10'
+1 million
 
-'the client's budget'
+the client's budget
 
-'Hello Dolly'
+Hello Dolly
 
-'Xanax'
+high
 
 -- 2017 ^ -- 2015 ˅
 
