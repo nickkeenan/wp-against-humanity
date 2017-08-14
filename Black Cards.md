@@ -1,4 +1,38 @@
-Headless WordPress 
+By unwritten law, if you author an SEO plugin you have to give it a ____________ User Experience
+
+WordPress developers write plugins that try to write to the site codebase because they don't use ___________
+
+The primary purpose of custom CSS for the admin theme is to hide ____________ from the client
+
+The most famous WordCamp Portland attendee in history is __________
+
+WordPress developers need more CSS frameworks like a WP Core needs another ________
+
+I chose to learn WordPress instead of Drupal because I am ''
+
+My functions.php files are longer than _______
+
+If you use WP-CLI that means you are  ______
+
+The most common Macbook sticker seen at WordCamp was ______
+
+The only other Apple product I can afford is ______
+
+We want our site design to look like Apple.com but more ________
+
+If you memorized 5 WordPress hooks a day, you would be ________ 17 years later
+
+"But now can you make it do that ____________ thing", said the client
+
+Your client's WordPress site was ____ by Turkish teenagers the day after you launched
+
+You can't stop grinning when ____ comments on your WordPress how-to post
+
+Don't you love how easy it is to disable _____?
+
+What excites me about writing WordPress code is  ____ on the homepage
+
+Headless WordPress is ___________
 
 The most heinous web host for WordPress is ______
 
@@ -16,7 +50,7 @@ I like the idea of WordPress configuration management but I'm not doing it right
 
 The plugin every WordPress developer love to remove from his site is ______
 
-The guy who never gets angry about merge conflicts when he commits is always high on __________
+He never gets annoyed by merge conflicts when he commits since he is always  __________
 
 -- 2017 ^
 -- 2015 ˅
