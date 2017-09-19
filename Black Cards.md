@@ -1,59 +1,46 @@
-By unwritten law, if you author an SEO plugin you have to give it a ____________ User Experience
+By unwritten law, if you author an SEO plugin you have to make it look like ____________
 
-WordPress developers write plugins that try to write to the site codebase because they don't use ___________
+He edited WordPress core via FTP because ___________
 
-The primary purpose of custom CSS for the admin theme is to hide ____________ from the client
+I use custom CSS for the admin theme to hide ____________ from the client
 
-The most famous WordCamp Portland attendee in history is __________
+My favorite part of the WordCamp was __________
 
 WordPress developers need more CSS frameworks like a WP Core needs another ________
 
-I chose to learn WordPress instead of Drupal because I am _______
+I chose to learn WordPress instead of other CRMs because I am _______
 
-My functions.php files are longer than _______
+My functions.php file is longer than _______
 
-If you use WP-CLI that means you are  ______
+I use WP-CLI so that makes me a  ______
 
-The most common Macbook sticker seen at WordCamp was ______
+I give them props because they have a ______ sticker on their laptop.
 
-The only other Apple product I can afford is ______
-
-"We want our site design to look like Apple.com but more ________"
+"We want our site design to look a little ________ and a little ________."
 
 If you memorized 5 WordPress hooks a day, you would be ________ 17 years later
 
-"But now can you make it do that ____________ thing", said the client
+"But now can you also make it do that ____________ thing", said the client.
 
-Your client's WordPress site was ____ by Turkish teenagers the day after you launched
+Your client's WordPress site was ____________ after the bots got to it.
 
-You can't stop grinning when ____ comments on your WordPress how-to post
+You can't stop grinning when ____________ comments on your post
 
-Don't you love how easy it is to disable _____?
+Don't you love how easy it is to disable ____________?
 
-What excites me about writing WordPress code is  ____ on the homepage
+What excites me about WordPress is  ____________ on the homepage
 
-Headless WordPress is ___________
+You can even host WordPress on ____________.
 
-The most heinous web host for WordPress is ______
+My plugin's secret weapon is storing ____________ in a custom table.
 
-The second most heinous web host for WordPress is ______
+____________ dot com.
 
-The WordPress database table where the most random objects are stuffed is ______
+Don't worry there are tons of ____________ plugins in the directory.
 
-The WordPress database table where the second most random objects are stuffed is ______
+I'm not backing up my site because _______
 
-________ is the function most likely to annoy WordPress newbies
-
-On average, there are ____ plugins for each functionality you need
-
-I like the idea of WordPress configuration management but I'm not doing it right now because _______
-
-The plugin every WordPress developer love to remove from his site is ______
-
-He never gets annoyed by merge conflicts when he commits since he is always  __________
-
--- 2017 ^
--- 2015 ˅
+____________ should be part of WordPress core.
 
 Automattic just acquired _____.
 
@@ -95,22 +82,14 @@ I downloaded a theme from ____.com and now my site has _____.
 
 WordPress and ________ are essentially the same thing, right?
 
-The theme of this year's WordCamp US is _____.
+It felt like the theme of this year's WordCamp was _____.
 
-My favorite part of WordCamp was when I got ____from the sponsor's table.
+My favorite part of WordCamp was all the ____ swag.
 
-I'm speaking at the next WordCamp about hooks, _____, and _____.
+I'm speaking at the next WordCamp about _____, and _____.
 
 I hear that you can speed up WordPress by adding _____ to the core.
 
-The _____ plugin just passed 1 million downloads.
+My _____ plugin just passed 1 million downloads.
 
-_____: a developer's best friend.
-
-
-
-
-
-
-
-
+_____: a content creator's best friend.

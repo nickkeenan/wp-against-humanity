@@ -34,10 +34,6 @@ infinite loop
 
 hipster-approved
 
-1&1
-
-GoDaddy
-
 'wp_posts'
 
 'wp_posts_meta'
@@ -52,7 +48,7 @@ Hello Dolly
 
 high
 
--- 2017 ^ -- 2015 ˅
+PHP 5.2
 
 The Loop
 
@@ -96,9 +92,11 @@ Automatic Updates
 
 Wapuu
 
-Backward Compatability
+Backward Compatibility
 
 Managed Hosting
+
+Repurposed Content
 
 CDN
 
@@ -223,12 +221,3 @@ Hacking core
 `do_robots()`
 
 `wp_die()`
-
-
-
-
-
-
-
-
-
